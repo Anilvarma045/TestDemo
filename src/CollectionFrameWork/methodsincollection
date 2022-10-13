@@ -1,0 +1,19 @@
+COllection Framework:
+	Methods in Collection Interface
+
+1. add(Object o)
+addAll(collection c)
+remove(Object  0)
+removeAll(collection c)
+retainAll(collection c)sss
+clear()
+isEmpty()
+size()
+contain()
+containAll(collection c)
+All the Methods are available in each interface derived from the parent Collection Interface
+
+List
+----
+i)  Insertion order preserved
+ii) Duplication Allowed
